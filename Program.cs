@@ -7,10 +7,7 @@ namespace ProgramacionEstructurada
         {
             int edad;
             int personas = 0;
-            
             string nombre;
-            
-
             do
             {
                 Console.Write("Ingresa la cantidad de personas que deseas ingresar: ");
